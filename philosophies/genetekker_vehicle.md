@@ -713,8 +713,6 @@ A visitor to Jinvanco in the Current Era can still find communities practicing r
 
 ---
 
-# Appendix I (Continued)
-
 ## D. Jovian Creole and Descendant Language Terms
 
 *Jovian Creole was a lingua franca that spread among the populace of the Gengineer Republic for everyday use. Its primary bases are Swahili, Malay, and Esperanto, with strong secondary influences from Mandarin, English, and Arabic. Genetekker Vehicle practitioners likely maintained a bilingual register: liturgical Sanskrit/Pali for formal ceremony, mantra, and doctrinal classification (as catalogued in Sections A and B of this glossary), and Jovian Creole for everyday teaching, communal discussion, and colloquial wisdom — much as terrestrial Tibetan Buddhists used Sanskrit for mantras and Tibetan for commentary and instruction. The following section includes canon-attested Jovian Creole words (marked [attested]) and reconstructed terms (marked [reconstructed]) extrapolated from the language's known phonological and morphological patterns. Descendant-language adaptations are noted where relevant.*

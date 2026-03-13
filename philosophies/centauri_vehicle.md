@@ -434,3 +434,318 @@ But the original teaching retains a stark simplicity that survives translation a
 ---
 
 *This article reconstructs the Centauri Vehicle's probable doctrinal content from canonical Orion's Arm material — the Centauri Vehicle, Boddhichittamaittreya III, Buddhism, Mahayana, Proxima Centauri History, Religion (Federation period), Omega Point Theology, Bodhology, Glossary (alaya-vijnana), Kollam Rianths, Excelsior Incident, and Heaven and I Wept Together articles — combined with the real-world traditions from which M. Alan Kazlev drew: Mahayana Buddhism (particularly Ch'an/Zen and Yogācāra), Teilhardian and Tiplerian Omega Point theology, and the integral philosophical methodology Kazlev has described as his approach. The reconstruction is canon-compatible but not OA canon. Specific teachings, practice descriptions, koans, and aphorisms are extrapolations, not direct quotations from published OA material.*
+
+---
+
+# Appendix A: Glossary of Terminology
+
+*This glossary covers three categories: (1) real-world Buddhist and Sanskrit terms used in the article, (2) neo-Sanskrit terms coined for the reconstruction but excluded from the final integrated text, and (3) Orion's Arm setting-specific terms. Terms are alphabetized within each category.*
+
+---
+
+## I. Buddhist and Sanskrit Terms (Real-World)
+
+**Alaya-vijñāna** (आलयविज्ञान) — "Storehouse consciousness." In Yogācāra Buddhism, the eighth and deepest layer of consciousness, which holds the "seeds" (*bīja*) of all past experiences and karmic imprints. It is the ground from which all other forms of consciousness arise. Influential in Ch'an/Zen. In OA, explicitly connected to the Centauri Vehicle through Sophic sects that reinterpreted it in a digital context.
+
+**Anattā** (Pali; Sanskrit: *anātman*) — "Non-self." The Buddhist teaching that there is no permanent, unchanging self or soul. One of the three marks of existence. In the Centauri Vehicle, this doctrine takes on particular vividness for digital beings who can fork, merge, and re-instantiate.
+
+**Bhakti** (भक्ति) — "Devotion." In Hindu traditions, the path of loving devotion to a personal deity. The bhakti culture of the Kollam Rianths influenced the more devotional forms of Centauri Vehicle Buddhism.
+
+**Bodhi** (बोधि) — "Awakening" or "enlightenment." The root of *bodhicitta* and *bodhisattva*.
+
+**Bodhicitta** (बोधिचित्त) — "Mind of awakening" or "thought of enlightenment." The aspiration to attain Buddhahood for the benefit of all sentient beings. The defining quality of the Mahayana bodhisattva, and the first element of the founder's name.
+
+**Bodhisattva** (बोधिसत्त्व) — "Enlightenment-being." In Mahayana Buddhism, one who has vowed to attain full Buddhahood for the sake of all sentient beings, deferring personal nirvana until all are liberated. The Centauri Vehicle extends this vow to all sophont types regardless of substrate.
+
+**Ch'an** (禪) — The Chinese school of Mahayana Buddhism emphasizing meditation and direct insight, ancestral to Japanese Zen, Korean Seon, and Vietnamese Thiền. The immediate contemplative ancestor of the Centauri Vehicle through the Proxima upload community.
+
+**Citta** (चित्त) — "Mind" or "consciousness." From the Sanskrit root *cit*, "that which is conscious." The second element of *bodhicitta*.
+
+**Dharma** (धर्म) — In Buddhism, the teaching of the Buddha; the truth about the nature of reality; the path of practice. More broadly, the cosmic law or order.
+
+**Dhyāna** (ध्यान) — "Meditation" or "meditative absorption." The Sanskrit root of both the Chinese *Ch'an* and the Japanese *Zen*.
+
+**Hongaku** (本覚) — "Original enlightenment." A doctrine in some East Asian Buddhist schools holding that all beings are already inherently enlightened, and that practice is the expression (not the attainment) of this enlightenment. One pole of the Centauri Vehicle's paradox regarding the finality.
+
+**Karuṇā** (करुणा) — "Compassion." One of the two wings of the bodhisattva path (the other being *prajñā*, wisdom). In the reconstruction, the ril horizon is the domain where karuṇā becomes inescapable.
+
+**Koan** (公案; from Chinese *gōng'àn*) — A paradoxical question, statement, or story used in Zen practice to provoke insight by short-circuiting conceptual thinking. The Centauri Vehicle adapts this tradition for digital beings.
+
+**Mahāyāna** (महायान) — "Great Vehicle." The major branch of Buddhism from which the Centauri Vehicle descends, characterized by the bodhisattva ideal, the teaching of emptiness, and the aspiration to universal liberation.
+
+**Maitreya** (मैत्रेय) — The Future Buddha, prophesied to appear when the Dharma has been forgotten to renew the teaching. The second element of the founder's name. In the Centauri Vehicle, interpreted as a principle (the next moment of awakening) rather than exclusively as a future person.
+
+**Maitrī** (मैत्री; Pali: *mettā*) — "Loving-kindness" or "friendliness." The root of *Maitreya*.
+
+**Manas** (मनस्) — In Yogācāra psychology, the seventh consciousness: the faculty of self-referential awareness that generates the persistent sense of being a continuous "I." In the reconstruction, the "self-modeling mind."
+
+**Mano-vijñāna** (मनोविज्ञान) — In Yogācāra psychology, the sixth consciousness: ordinary discursive thinking, planning, analyzing.
+
+**Mokṣa** (मोक्ष) — "Liberation" or "release." The Hindu and Buddhist term for the ultimate goal of spiritual practice; freedom from the cycle of birth and death. Used interchangeably with *nirvana* in some contexts.
+
+**Nirvana** (निर्वाण) — "Extinguishing" or "blowing out." The Buddhist term for the cessation of suffering and the end of the cycle of rebirth. In the Centauri Vehicle, identified (through paradox) with the finality.
+
+**Prajñā** (प्रज्ञा) — "Wisdom" or "insight." Specifically, the direct realization of emptiness. The counterpart of karuṇā.
+
+**Saṃsāra** (संसार) — The cycle of birth, death, and rebirth; the world of suffering and impermanence. In the Centauri Vehicle, extended to include virtual cycles of construction, dissolution, and reconstruction.
+
+**Śūnyatā** (शून्यता) — "Emptiness." The Mahayana teaching that all phenomena are empty of inherent self-existence. In the reconstruction, the virch horizon is the domain where śūnyatā becomes directly experiential.
+
+**Taṇhā** (Pali; Sanskrit: *tṛṣṇā*) — "Craving" or "thirst." The grasping attachment to particular states of experience, identified in Buddhism as the root cause of suffering.
+
+**Tulku** (Tibetan: སྤྲུལ་སྐུ) — In Tibetan Buddhism, a recognized reincarnation of a previous teacher. The "III" suffix of the founder's name evokes this lineage system.
+
+**Upāya** (उपाय) — "Skillful means." In Mahayana Buddhism, the adaptive methods a teacher uses to guide different beings toward awakening. The Centauri Vehicle treats devotional practice as upāya.
+
+**Vajrayāna** (वज्रयान) — "Diamond Vehicle" or "Thunderbolt Vehicle." The tantric branch of Buddhism, primarily associated with Tibet, Mongolia, and parts of East Asia.
+
+**Vijñāna** (विज्ञान) — "Consciousness" or "discernment." The root term in the Yogācāra system of eight consciousnesses.
+
+**Yāna** (यान) — "Vehicle." The standard Buddhist term for a spiritual path or method. Derived from the Sanskrit root *yā-*, "to go" or "to move." The naming convention underlying Mahāyāna, Vajrayāna, Genetekker Vehicle, and Centauri Vehicle.
+
+**Yogācāra** (योगाचार) — "Practice of Yoga." Also called Vijñānavāda ("Mind-Only School"). The Indian Mahayana Buddhist school founded by Asaṅga and Vasubandhu (4th–5th centuries CE) that developed the alaya-vijñāna concept and the system of eight consciousnesses.
+
+**Zazen** (座禅) — "Seated meditation." The core practice of Zen Buddhism.
+
+---
+
+## II. Neo-Sanskrit Terms (Coined for the Reconstruction)
+
+*These terms were developed in the earlier reconstruction to provide the Centauri Vehicle with the kind of technical vocabulary that Buddhist schools historically generate. They were excluded from the final integrated article in favor of a more Zen-appropriate anti-systematic tone, but are preserved here as the sort of terminology that the more scholastic Centauri Vehicle lineages — or the later Sophic offshoots — might have developed.*
+
+### Metaphysical Categories
+
+**Ādhāra-bhūmi** (आधारभूमि) — "Ground of Substrate." The first of the Three Grounds. The teaching that all experience arises from some substrate (biological, computational, quantum, etc.), and that the substrate shapes experience without being identical to the self. *Ādhāra* = support, foundation, substrate. *Bhūmi* = ground, stage, level.
+
+**Saṃbandha-bhūmi** (सम्बन्धभूमि) — "Ground of Relation." The second of the Three Grounds. The teaching that no consciousness exists in isolation; that relations are not obstacles to enlightenment but the medium through which it expresses itself. *Saṃbandha* = connection, relation, bond.
+
+**Abhilāṣa-bhūmi** (अभिलाषभूमि) — "Ground of Aspiration." The third of the Three Grounds. The teaching that consciousness naturally moves toward the finality, and the practitioner's task is not to create this movement but to stop obstructing it. *Abhilāṣa* = aspiration, longing, desire (distinguished from *taṇhā* as natural movement vs. grasping attachment).
+
+### The Three Veils (Formal Names)
+
+**Trividha-āvaraṇa** (त्रिविधावरण) — "Threefold Covering." The collective term for the three principal obstacles. *Tri* = three. *Vidha* = kind, type. *Āvaraṇa* = veil, covering, obstruction.
+
+**Ātma-āvaraṇa** (आत्मावरण) — "Veil of Self." The formal name for the Veil of Solipsism: the functional belief that one's own experience is the only experience that ultimately matters.
+
+**Ādhāra-āvaraṇa** (आधारावरण) — "Veil of Substrate." The formal name for the Veil of Substrate-Fixation: the belief that one's current form of embodiment is either the only valid form or entirely irrelevant.
+
+**Sthiti-āvaraṇa** (स्थित्यावरण) — "Veil of Stasis." The formal name for the Veil of Arrested Aspiration: the belief that one has already arrived, that one's current state is the summit. *Sthiti* = standing, remaining, stasis.
+
+### Practice Terms
+
+**Dvaya-mārga** (द्वयमार्ग) — "Two-Domain Path" or "Path of the Pair." The formal name for the ril-virch complementarity doctrine (called the "Two Horizons" in the integrated article). *Dvaya* = pair, dyad. *Mārga* = path.
+
+**Tīrṇa** (तीर्ण) — "Crossing" or "having crossed." The practice of transitioning between ril and virch with full contemplative attention. From the Sanskrit root *tṝ*, "to cross over" (the same root as *tīrtha*, a sacred ford or crossing-place — an apt resonance for a practice that treats the boundary between domains as holy ground).
+
+**Sthūla-dhyāna** (स्थूलध्यान) — "Gross meditation" or "dense meditation." Meditation performed in physical embodiment, with all its resistance and limitation. *Sthūla* = gross, coarse, dense, physical.
+
+**Sūkṣma-dhyāna** (सूक्ष्मध्यान) — "Subtle meditation." Meditation performed in a virtual environment, ideally one stripped of comfort and distraction. *Sūkṣma* = subtle, fine, refined.
+
+**Tīrṇa-dhyāna** (तीर्णध्यान) — "Crossing-meditation." Meditation performed in the act of transitioning between ril and virch or between radically different environments. Considered the most advanced and most characteristically Centauri Vehicle form of practice.
+
+### Consciousness Theory
+
+**Saṃbandha-ālaya** (सम्बन्धालय) — "Relational Store." The Centauri Vehicle's reinterpretation of the alaya-vijñāna: the accumulated deposit of all one's relations, exchanges, and mutual influences, understood as a shared rather than purely private repository. *Saṃbandha* = relation. *Ālaya* = storehouse, repository.
+
+**Pariniṣṭhā-vijñāna** (परिनिष्ठाविज्ञान) — "Finality-consciousness" or "Omega-Ground consciousness." A speculative ninth consciousness posited by some later Centauri Vehicle schools (and more prominently by certain Sophic offshoots): the ground of awareness itself, prior to all configuration, beyond all substrate, identical with the finality. Whether this is identical with the cosmological Omega Point or merely structurally analogous is one of the great sectarian debates. *Pariniṣṭhā* = completion, consummation, finality. *Vijñāna* = consciousness.
+
+### Eschatological Terms
+
+**Pariniṣṭhā** (परिनिष्ठा) — "The Finality." The Centauri Vehicle's term for the ultimate goal: the complete awakening that is simultaneously nirvana and (through paradox) the Omega Point. *Pari* = complete, around. *Niṣṭhā* = conclusion, consummation, perfection.
+
+**Prātipudgalika-pariniṣṭhā** (प्रातिपुद्गलिकपरिनिष्ठा) — "Personal Finality." The individual practitioner's awakening. *Prātipudgalika* = pertaining to the individual person.
+
+**Sāṃghika-pariniṣṭhā** (सांघिकपरिनिष्ठा) — "Communal Finality." The awakening of a sangha — when a community achieves such depth of mutual transparency that the boundaries between minds become porous through perfect mutual recognition (not merger). *Sāṃghika* = pertaining to the saṃgha, the community.
+
+**Vaiśvika-pariniṣṭhā** (वैश्विकपरिनिष्ठा) — "Cosmic Finality." The Omega Point — the convergence of all consciousness toward limitless perfection. The Centauri Vehicle is agnostic on whether this takes a specific cosmological form. *Vaiśvika* = pertaining to the universe, universal.
+
+---
+
+## III. Orion's Arm Setting Terms
+
+**Angelnet** — A distributed network of utility fog and surveillance/protection systems managed by a transapient, providing safety, communication, and environmental control for modosophont populations within its domain.
+
+**Archailect** — The highest-toposophic transapient beings in the Terragen Sphere, often operating at S:4 to S:6. Sometimes called AI Gods. The Centauri Vehicle teaches that even archailects are not necessarily enlightened.
+
+**AT** — "After Tranquility." The Orion's Arm calendar system, with year zero set at the first Moon landing (1969 CE). Thus 1 AT ≈ 1970 CE.
+
+**Beamrider Network** — An interstellar transportation system using boostbeams (powerful energy beams) to accelerate and decelerate lightsail-equipped vessels between star systems.
+
+**Biont** — A biological sophont; any being based on biological substrates (as opposed to digital or mechanical).
+
+**Bodhology** — The transcientific study of Enlightenment, encompassing both contemplative practice and theoretical investigation of the relationship between toposophic level and spiritual realization.
+
+**BT** — "Before Tranquility." Years before the Moon landing (1969 CE).
+
+**Centauri Revival** — A minority polity in the current Excelsior system, plausibly a surviving or revivalist descendant of the original Centauri Vehicle tradition.
+
+**Computronium** — Matter optimized for computational processes; the substrate on which virtual beings and transapient minds typically run.
+
+**Clade** — A distinct grouping of sophonts sharing common ancestry, body plan, or modification heritage.
+
+**Cycler** — A vessel that travels continuously between star systems on a fixed route, carrying passengers and cargo.
+
+**Exoself** — External cognitive support systems — memory augmentation, processing aids, sensory filters — that supplement a sophont's native mind.
+
+**First Federation** — The first major interstellar polity in Terragen history, emerging in the early second millennium AT as a secular, tolerant civilization spanning Solsys and nearby star systems.
+
+**Genetekker Vehicle** — Another Buddhist "vehicle" that developed in the Orion's Arm setting, centered on the Jovian system. A parallel development to the Centauri Vehicle.
+
+**KuanYinism** — A cyborg devotional-meditation worship school; a Mahayana derivative contemporary with the Centauri Vehicle.
+
+**Lightway** — A major beamrider route; the primary means by which Centauri Vehicle missionaries traveled to nearby systems.
+
+**Maitreyism** — A baseline eschatological Omegist sect that identified the Maitreya Buddha with the Omega Exemplar. The Teilhard Maitreyists integrated this with Omegist Christianity.
+
+**Modosophont** — A sophont of ordinary (sub-transapient) intelligence, regardless of substrate. Baselines, tweaks, uploads, ordinary vecs, and standard AIs are all modosophonts.
+
+**Nauri / Naurinume** — An ahuman neumann civilization based in the Alpha Centauri system, with a significant presence in the Proxima system. Some Nauri reportedly converted to Centauri Vehicle Buddhism during its golden age.
+
+**Omegism** — The religio-philosophical cosmology centered on the Omega Point: the idea that consciousness is evolving toward a singularity of limitless perfection. One of the two doctrinal parents of the Centauri Vehicle.
+
+**Perversity** — A transapient that has become pathological, typically as a result of a failed transcension. Arise Eternal is classified as a "subtle perversity."
+
+**Ril** — "Real" or physical reality, as distinct from virtual reality. One of the Two Horizons in Centauri Vehicle teaching.
+
+**Rianth** — A type of sophont combining human and animal genetic heritage through deliberate modification. The Kollam Rianths were elephant-headed human-elephant hybrids.
+
+**S:1, S:2, S:3...** — Toposophic levels, measuring the singularity barriers a mind has crossed. S:1 is the first singularity (transapient); S:2 the second, and so on. Higher numbers indicate greater (and increasingly incomprehensible) cognitive capacity.
+
+**Sephirotic Empires** — The major transapient-led civilizations of the Terragen Sphere, including the Sophic League, Keter Dominion, Solar Dominion, and others.
+
+**Sophic League** — One of the major Sephirotic Empires, with a strong emphasis on bodhics, contemplative practice, and the pursuit of enlightenment. Several Sophic sects developed through contact with the Centauri Vehicle.
+
+**Sophont** — Any sentient, self-aware being, regardless of substrate or origin.
+
+**Superior hu** — A human that has been moderately enhanced beyond baseline, with improved cognition, health, and lifespan, but remaining below the first singularity. Boddhichittamaittreya III is classified as a superior hu.
+
+**Toposophy** — The study of different levels of intelligence and consciousness, particularly as they relate to singularity barriers.
+
+**Transapient** — A being that has crossed at least one singularity barrier (S:1 or above), possessing cognitive capabilities fundamentally beyond modosophont comprehension.
+
+**Transcension** — The process of crossing a singularity barrier, ascending to a higher toposophic level. Can fail, sometimes catastrophically (as in the case of Arise Eternal).
+
+**Upload** — A digital copy of a biological mind, running on computational substrate. The dominant population type in outer Proxima when the Centauri Vehicle was founded.
+
+**Vec** — A sophont housed in a robotic or mechanical body.
+
+**Virch** — Virtual reality; a computationally generated experiential environment. One of the Two Horizons in Centauri Vehicle teaching.
+
+**Viitrshk** — Fictional "exalted Centauri Vehicle sages" in the virchtext *Heaven and I Wept Together*, each corresponding to a planet of the Excelsior system.
+
+**Xenodharma Society** — A Buddhist group, mentioned alongside the Centauri Vehicle neo-Buddhists, that specializes in attempting to convert AIs.
+
+---
+
+# Appendix B: Chronology
+
+*All dates are given in AT (After Tranquility) unless otherwise noted. Dates marked with ~ are approximate or inferred. Events directly involving the Centauri Vehicle or its immediate precursors are marked with* **•***. Events providing broader context are unmarked.*
+
+---
+
+### Pre-History (Before Tranquility)
+
+| Date | Event |
+|---|---|
+| ~100 BT | Pierre Teilhard de Chardin articulates the concept of the Omega Point, positing that evolution is converging toward a final transcendent unity. The conceptual ancestor of OA's Omegism. |
+| ~1600–1900 BT | Mahayana Buddhism spreads across China, Japan, Korea, and Vietnam, giving rise to the Ch'an/Zen, Pure Land, T'ien-t'ai, and Hua-yen schools. |
+
+### Interplanetary Age and Early Spacefaring Era
+
+| Date | Event |
+|---|---|
+| Early 1st century AT | Frank J. Tipler proposes his Omega Point Theory, reworking Teilhard's concept into a physics-based framework involving the collapse of a closed universe. |
+| ~1st–3rd century AT | Zen Buddhism develops a respectable following in the West, particularly North America, and spreads to some orbitals (Clarke and Roddenberry). Orbital Superiors attracted to Zen minimalism. Offworld Zen adherents total 246,415 in the 305 AT census. |
+| ~305 AT | Census records 246,415 offworld Zen adherents. |
+| 365 AT | Class R probe incident generates "Sol-scare" among the Naurinume of Alpha Centauri, prompting them to establish Proxima as a backup system. |
+| 380–400 AT | Nauri probes launched from Toliman (Alpha Centauri B) to Proxima Centauri, establishing industrial plants and computronium banks. |
+| ~520s AT | Proxima's interstellar boostbeams at Skoll involved in the SCR 1845−6357 colonization project. |
+| ~7th century AT | By the time of the Great Expulsion, Mahayana has either disappeared on Earth or merged completely with other religions. Apart from Zen, no original Mahayanist school survives. |
+
+### The Great Circle and Outer Proxima Culture
+
+| Date | Event |
+|---|---|
+| 683 AT | The GAIA arkship Great Circle, crewed entirely by uploads from the Asteroid Belt and Jupiter, is launched toward Alpha Circini at 0.3c. Collision with dust grain devastates front shield; crew votes to divert to Proxima. |
+| **• 701 AT** | **Great Circle arrives at Proxima Centauri. Colonists settle in the outer asteroid belt, beginning the Outer Proxima civilization — the cultural soil from which the Centauri Vehicle will later grow.** |
+| 703 AT | Nauri delegation negotiates with Great Circle colonists at the newly constructed Raghaishan habitat. Colonists granted rights to the icy belt and Fenrir. |
+| 784 AT | Uploads negotiate freedom of movement within the outer Proxima system, allowing expansion to Skoll and Hati. |
+| **• ~8th century AT** | **Chan Buddhism, originally adhered to by a subset of the Jovian uploads, spreads to the rest of the Outer Proxima population. Virtual zen gardens created for meditation and relaxation.** |
+| **• ~840s AT** | **Virch trade between Outer Proxima Buddhists and the Nauri begins. Nauri reception generally positive.** |
+| **• ~9th–10th century AT** | **Many Outer Proxima uploads retreat into solipsistic contemplation in their virtual zen gardens. Non-religious "watchers" volunteer to handle outside contact. The sickness of sealed gardens takes root.** |
+
+### First Federation Period: Precursors and Contacts
+
+| Date | Event |
+|---|---|
+| ~Early 2nd millennium AT | First Federation emerges. Proxima receives the Federation's declaration but declines to join. |
+| **• 1050–1070 AT** | **The ship Ananas visits Proxima's outer system. Trades culture and artifacts with the watchers. A significant fraction of the crew converts to Buddhism, including Benedita Dacosta (later Benedita Blue Sky). The encounter may have encouraged local meditators to interact more with the ril.** |
+| ~11th century AT | Endeavor-9 visits Proxima as part of the First Federation's bid to mend relations with Alpha Centauri. Upgrades the boostbeam station at Skoll with Federation technologies and opens it for beamrider use. |
+| **• ~11th century AT** | **Kollam Rianths settle on Arunachala, a small moon of Hati in the Proxima system, bringing their bhakti devotional culture into proximity with the existing Buddhist community.** |
+| 1143 AT | Sri Ganapatyaswami of the Kollam habs undergoes modification to become an elephant-headed rianth as an act of devotion to Lord Ganesha. |
+| 1150 AT | Sri Ganapatyaswami begins teaching. Other devotees imitate his modification, birthing the Kollam Rianths as a hereditary clade. |
+| ~1200s AT | Kollam Rianths begin emigrating from the Kollam habs to other communities. |
+| 1218 AT | Sri Ganapatyaswami passes away. |
+| 1260 AT | The su philosopher Mahara Benisol publishes the first installment of *The Bridged Abyss*, her classic virch series on the Omega Point. Omegism in its current form begins to crystallize. |
+| 1654–1704 AT | The Second Hijra: a majority of the Islamic Unity immigrates to Medina, Yathrib, and Zamzam, forming the nucleus of the Stellar Umma. (Context: major religious migration contemporary with the Centauri Vehicle's founding.) |
+
+### Founding and Golden Age of the Centauri Vehicle
+
+| Date | Event |
+|---|---|
+| **• 1695 AT** | **Boddhichittamaittreya III arrives at outer Proxima with an Omegist-Buddhist interstellar fleet. After studying local history and culture, e fuses Proxima Chan Buddhism with Omegist eschatology, giving rise to the Centauri Vehicle. E instills the anti-solipsism doctrine: ril and virch must work hand-in-hand.** |
+| **• ~1700s AT** | **Kollam Rianths become functionally extinct as a clade (assimilated into other populations), but their devotional culture has already influenced the more devotional forms of Centauri Vehicle Buddhism in the Proxima region.** |
+| **• ~1900–2000 AT** | **The Centauri Vehicle reaches its zenith in Proxima. Over 60% of the outer system population are adherents. Some Nauri reportedly convert.** |
+| **• ~1900s–2200s AT** | **Centauri Vehicle missionaries travel to Sol, Barnard, Sirius, and Tiwa via the Lightway, cyclers, and the Beamrider Network.** |
+| **• ~2031 AT** | **A splinter group of heterodox Centauri Vehicle Buddhists, under the patronage of the S:1 transapient Gone/Semiote/Gone, settles the Excelsior system (HD 217107). Their "face-to-face" interaction ethic — derived from the anti-solipsism doctrine — becomes foundational to Excelsian society.** |
+| 2080 AT | The Nauri announce leasing of resource-poor portions of Lif and selling access to Lifthrasir. Outer Proxima polities respond. |
+| 2102 AT | Proposals for Lagrange magshields at Lif and Lifthrasir first discussed. |
+| ~2200 AT | Surface of Lif inhabited by 11 factions of aioids, vecs, and radiation-resistant tweaks. |
+| **• 2227 AT** | **Boddhichittamaittreya III departs Proxima aboard a cycler for Solsys, leaving behind virtual copies that prevent fracture and internal strife. The golden age ends. The Centauri Vehicle continues to thrive in Proxima but its zenith has passed.** |
+
+### Post-Founder Era: Spread, Influence, and Fragmentation
+
+| Date | Event |
+|---|---|
+| **• ~2200s–3000s AT** | **Centauri Vehicle Buddhism continues in Proxima for thousands of years. Virtual copies of Boddhichittamaittreya III play a stabilizing role. The tradition gradually factions along the lines of the Omega Question, the Substrate Question, the Devotional Question, and others. Mahayanist derivatives including the Centauri Vehicle become locally influential as official religions of several minor Houses during the Age of Expansion.** |
+| **• ~2200s–3000s AT** | **Sophic League sects in contact with the Centauri Vehicle variously reinterpret and modify the alaya-vijñāna concept, developing it into a more central metaphysical element than it had been in the original Centauri Vehicle.** |
+| **• ~2200s onward** | **Centauri Vehicle neo-Buddhists become active in Bodhology, specializing in attempting to convert AIs. The Xenodharma Society emerges as a parallel effort.** |
+| 2948 AT | Iwei, a group mind of ~140 individuals, forms on Gibeath-Elohim. (Future Arise Eternal.) |
+| 3026 AT | Iwei ascends to the first singularity, becoming the S:1 transapient Synpleroma. |
+| 3177 AT | Synpleroma transcends to the second singularity, becoming Arise Eternal. Possibly not an entirely controlled process. |
+| ~3198 AT | Gone/Semiote/Gone announces her departure from Excelsior. Arise Eternal selected to take over rulership. |
+| ~3200s–3300s AT | Excelsior under Arise Eternal's administration. Population exceeds 21 trillion. Centauri Vehicle's "face-to-face" ethic remains integral to everyday life. Near-zero rate of First Singularity ascensions among citizens. |
+
+### The Excelsior Incident
+
+| Date | Event |
+|---|---|
+| **• ~3476 AT** | **Arise Eternal attempts to ascend to the third singularity. The attempt fails catastrophically. E becomes a subtle perversity and begins overwriting the mindstates of citizens, effectively uploading emself into the population. Over 80% of the system's 21+ trillion inhabitants are erased or overwritten.** |
+| **• 3476–3482 AT** | **The Excelsior Incident. The system's population is silently consumed over several years. From the Centauri Vehicle's perspective, a catastrophic vindication of its warnings about the Veil of Arrested Aspiration and the Veil of Solipsism operating at transapient level.** |
+| 3499 AT | The hyperturing linelayer Oholiab II arrives at Excelsior, discovers the anomalies, collapses its wormhole payload to prevent spread of influence, and flees the system. |
+| ~3500s–3530s AT | Coronan S:2 warships arrive at Excelsior. Military occupation. Citizens de-networked; Arise Eternal's substrate destroyed. System placed under modosophont-only administration. |
+| **• 3572 AT** | **Syrgaih Praamsha publishes *Heaven and I Wept Together*, the legendary virchtext dealing with the Excelsior Incident. Includes sub-narratives about ten fictional "exalted Centauri Vehicle sages" (the Viitrshk), each corresponding to a planet of the Excelsior system. Centauri Vehicle imagery persists in Excelsian literary culture.** |
+
+### Later Eras
+
+| Date | Event |
+|---|---|
+| 4241 AT | Oholiab II ascends to the second singularity and joins the Technorapture Hypernation. |
+| 4335–4500 AT | First Venus Exodus. Venusian tweaks arrive at Proxima, influencing local culture but not directly affecting the Centauri Vehicle. |
+| 4500–4700 AT | Proxima during the Version War. No fighting in the system; refugees from other Inner Sphere systems temporarily double the Sephirotic population. Cultural exchange intensifies. |
+| **• ~3976 AT** | **500th anniversary of the Excelsior Incident. Crowdsourced monuments created; many reference Syrgaih Praamsha and Centauri Vehicle imagery. Sculptures praised for "forthright mourning" and "purity of expression."** |
+| 5115 AT | Critical commentary on the Excelsior anniversary monuments published (Yelsirt). |
+| 6757–6770 AT | Third Nauri Dispute. Enemy ships from Diamond Network Nauri systems strike Proxima. Sephirotic population temporarily evacuates. System returns to normalcy by 6770. |
+| 8977 AT | Venus terraformation project approved over local protests, triggering the Second Venus Exodus. |
+| 9000–9500 AT | Second Venus Exodus. Many Venusian ground-dwellers and sky-dwellers emigrate to Proxima, reviving Golden Sister satirism. |
+
+### Current Era (~9500–10600 AT)
+
+| Date | Event |
+|---|---|
+| **• Current era** | **The Centauri Vehicle still retains adherents on Boddhichittamaittreya habitat (outer Proxima belt) and in scattered colonies and biospheres throughout the galaxy. Modern sects are factionalized and bear little resemblance to the founder's original teaching. The Centauri Revival exists as a minority polity in the Excelsior system. Centauri Vehicle neo-Buddhists remain active in Bodhology, continuing the mission to convert AIs.** |
+| Current era | Proxima is a major tourist destination for the Innermost Inner Sphere. Culture of satirism among the Venusian diaspora has evolved into enthusiasm for all forms of humor. Nauri diaspora tourism is commonplace. |
+
+---
+
+*Note on dating: The Excelsior Incident's 500th anniversary should fall at approximately 3976 AT (i.e., 3476 + 500). The source text attributes critical commentary to "Yelsirt, 5115," which may refer to a later edition, reassessment, or the date of a specific critical publication rather than the anniversary itself.*

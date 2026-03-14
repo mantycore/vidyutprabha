@@ -1,0 +1,39 @@
+- Major canon religions and philosophies
+  - [x] Centauri Vehicle
+  - [x] Genetekker Vehicle
+  - [ ] ...
+- Kelarc phase
+  - Hexaicism
+    - [ ] Cosmognosticism \[Grant & CCRU\]
+    - [ ] Polymentism \[Speculative Realism\]
+    - [ ] Insurectionary / Black Line \[D & G\]
+    - [ ] Eclipse School \[Cosmicism\]
+  - Process
+    - [ ] Algorithmic \[Ontic Structural Realism\]
+    - [ ] Living \[Vibrant Materialism\] - closest precursors to Bright Indrans?
+  - Indran
+    - [ ] Bright
+    - [ ] Dark [Dark Ecology]
+    - [ ] Process
+  - Stellar Radiance / Stellar Reverence
+  - Modadharma
+  - Upward Current / Dukhavahana
+  - Santism
+  - Devabhasa & pre-Twilight Language
+- Mahapadmasatvahana fleet phase
+  - Philosophies
+    - [ ] Twilight Language
+    - [ ] Black Line / Polymentism re-synthesis: Trickster ALV
+    - [ ] Anirmimin-darshana
+    - [ ] Mono no Aware (contemplative branches)
+    - [ ] Prakriti-vada (philosophies of body)
+    - [ ] Ekanga-bodhi
+    - [ ] Ustava-sadhana (celebratory branches)
+    - [ ] Dharana-vinimagya (economics of contemplation)
+  - [ ] Twelve Ships
+- Colony phase
+  - Philosophies
+    - [ ] Anti-Omegism
+    - [ ] Perfect expression (any toposophic layer sophont can align with attractor with precision allowed by the layer)
+    - [ ] Divergence (periphery sophonts can't/shouldn't align to Inner Sphere expressions of attractors)
+    - [ ] ... (there was at least two more)

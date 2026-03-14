@@ -2,6 +2,7 @@
   - [x] Centauri Vehicle
   - [x] Genetekker Vehicle
   - [ ] ...
+- History https://arena.ai/c/019ceeaa-a86d-77b1-b292-8d0b4616e14a
 - Kelarc phase
   - Hexaicism
     - [ ] Cosmognosticism \[Grant & CCRU\] https://arena.ai/c/019ae01a-f6eb-73b6-8203-a68b53ea526a

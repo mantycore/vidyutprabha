@@ -29,7 +29,7 @@
     - [ ] Prakriti-vada (philosophies of body)
     - [ ] Ekanga-bodhi
     - [ ] Ustava-sadhana (celebratory branches)
-    - [ ] Dharana-vinimagya (economics of contemplation)
+    - [ ] Dharana-vinimagya: economics of contemplation / "thorough (vi-) immersion (nimagya) through concentration (dharana)"
   - [ ] Twelve Ships
 - Colony phase
   - Philosophies

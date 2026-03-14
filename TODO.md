@@ -4,19 +4,28 @@
   - [ ] ...
 - Kelarc phase
   - Hexaicism
-    - [ ] Cosmognosticism \[Grant & CCRU\]
-    - [ ] Polymentism \[Speculative Realism\]
-    - [ ] Insurectionary / Black Line \[D & G\]
-    - [ ] Eclipse School \[Cosmicism\]
+    - [ ] Cosmognosticism \[Grant & CCRU\] https://arena.ai/c/019ae01a-f6eb-73b6-8203-a68b53ea526a
+          - https://arena.ai/c/019adfb7-34b4-7a07-9906-20156e5742b6
+    - [ ] Polymentism
+      - \[Yogacara, Schopenhauer, Bhaskar, Pierce \] https://arena.ai/c/019ae00f-cc2c-7bc1-95a6-76f2f3c08903
+        - https://arena.ai/c/019cee98-8d83-76d8-9eb9-2c563315e7d3
+        - https://arena.ai/c/019cee96-87b3-7083-aa36-55f9827d012f
+        - https://arena.ai/c/019cee94-171c-7be1-8db3-c3762ae37aaa
+        - https://arena.ai/c/019cee92-0d96-7906-b7e3-29c2b491c8bd
+        - https://arena.ai/c/019cee87-66e5-7499-9a12-04fb316a0120
+      - \[Speculative Realism\] 
+    - [ ] Insurectionary / Black Line \[D & G\] https://arena.ai/c/019ae02d-a49f-7249-b3b5-beb031128af9
+    - [ ] Eclipse School \[Cosmicism\] https://arena.ai/c/019ae01a-9b90-70d1-abdb-5b11bfcbd942 & https://arena.ai/c/019ae01a-4592-70a7-ae34-139592ea048a
+    - [ ] https://arena.ai/c/019ae037-5748-70cf-af82-55188b752350 & https://arena.ai/c/019ae02d-0218-7d1d-91cf-3a9375bfa8e7
   - Process
     - [ ] Algorithmic \[Ontic Structural Realism\]
-    - [ ] Living \[Vibrant Materialism\] - closest precursors to Bright Indrans?
+    - [ ] Living \[Vibrant Materialism\] - closest precursors to Bright Indrans? https://arena.ai/c/019adfd4-5bfd-77c5-9dcd-f66c4df8630b https://arena.ai/c/019adfcc-f394-7e67-9468-14761188e3c9
   - Indran
     - [ ] Bright
-    - [ ] Dark [Dark Ecology]
+    - [ ] Dark [Dark Ecology] https://arena.ai/c/019adfc6-6fe6-7a4a-b023-dfceb39dc9ed
     - [ ] Process
   - Stellar Radiance / Stellar Reverence
-  - Modadharma
+  - Modadharma https://arena.ai/c/019adfc7-1106-7a79-8a9b-efb0c423a3a8
   - Upward Current / Dukhavahana
   - Santism
   - Devabhasa & pre-Twilight Language

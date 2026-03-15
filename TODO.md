@@ -3,6 +3,7 @@
   - [x] Genetekker Vehicle
   - [ ] ...
 - History https://arena.ai/c/019ceeaa-a86d-77b1-b292-8d0b4616e14a
+- Pre-Kelarc phase https://arena.ai/c/019cef24-a73f-77bf-9952-aa0cc346ffd8 https://arena.ai/c/019cef18-9c6d-7d97-871e-45460e0f9a2a
 - Kelarc phase
   - Hexaicism
     - [ ] Cosmognosticism \[Grant & CCRU\] https://arena.ai/c/019ae01a-f6eb-73b6-8203-a68b53ea526a

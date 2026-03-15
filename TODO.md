@@ -14,6 +14,7 @@
         - https://arena.ai/c/019cee94-171c-7be1-8db3-c3762ae37aaa
         - https://arena.ai/c/019cee92-0d96-7906-b7e3-29c2b491c8bd
         - https://arena.ai/c/019cee87-66e5-7499-9a12-04fb316a0120
+        - Centauri Vehicle Integration: https://arena.ai/c/019ceebf-bab4-73a7-96f8-59c33d344441
       - \[Speculative Realism\] 
     - [ ] Insurectionary / Black Line \[D & G\] https://arena.ai/c/019ae02d-a49f-7249-b3b5-beb031128af9
     - [ ] Eclipse School \[Cosmicism\] https://arena.ai/c/019ae01a-9b90-70d1-abdb-5b11bfcbd942 & https://arena.ai/c/019ae01a-4592-70a7-ae34-139592ea048a
